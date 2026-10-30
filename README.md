@@ -1,7 +1,7 @@
 # fsnav-maps
 
 Starter sea maps for the FSN boat app (https://app.fsnav.gr/), served at https://maps.fsnav.gr/.
-Catalog version: 2026-10-29.
+Catalog version: 2026-10-30.
 
 **Όχι για ναυσιπλοΐα / Not for navigation.**
 Οι χάρτες αυτοί δεν είναι για ναυσιπλοΐα. / These maps are an aid for fishing, not a nautical chart.
